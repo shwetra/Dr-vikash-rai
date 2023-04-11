@@ -48,7 +48,7 @@ export default function Footer() {
               size={'lg'}
               mr={4}
               leftIcon={<FaWhatsapp/>}>
-              <a  href="https://wa.me/+918081170443"> 8081170443</a>
+              <a  href="https://wa.me/+918081270443"> 8081270443</a>
             </Button>
             <Button
               variant={'solid'}
@@ -56,8 +56,7 @@ export default function Footer() {
               size={'lg'}
               mr={4}
               leftIcon={<PhoneIcon />}>
-              <a href="tel:8081170443">80811-70443</a>
-              {/* <a  href="https://wa.me/8081170443"> 8081170443</a> */}
+              <a href="tel:8081270443">80812-70443</a>
             </Button>
             <Button
               variant={'solid'}

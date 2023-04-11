@@ -38,8 +38,7 @@ export default function Navbar() {
               size={'sm'}
               mr={4}
               leftIcon={<PhoneIcon />}>
-              <a href="tel:8081170443">80811-70443</a>
-              {/* <a  href="https://wa.me/8081170443"> 8081170443</a> */}
+              <a href="tel:8081270443">80812-70443</a>
             </Button>
             
             <Menu>
